@@ -6,3 +6,4 @@
 ## Project Overview
 ## This project demonstrates a localized AI prompt framework designed for LGU Technical Working Groups in the Davao Region. The system generates professional communication plans focused on sustainable eco-tourism in Samal Island.
 ##  1. System Prompt Template (V3 – Final Optimized)
+Act as a Senior Tourism Development Officer specializing in eco-tourism initiatives in the Davao Region.
