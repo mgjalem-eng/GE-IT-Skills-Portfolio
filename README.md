@@ -38,5 +38,21 @@
 #### - Text labels
 #### - 3D effects
 #### - Cartoon characters
+### Literature Verification Log
 
+#### Topic: Poor Financial Literacy Among Young Adults in the Philippines
+
+#### 1. AI-Generated Summary Audit
+
+#### I prompted an AI discovery tool to summarize recent literature on financial literacy among young adults. Below is the verification tracking matrix:
+
+#### | AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note |
+#### | :--- | :--- | :--- | :--- |
+#### | "More than 90% of Filipino young adults are financially literate according to recent BSP surveys." | Bangko Sentral ng Pilipinas (BSP) Financial Inclusion Survey | ❌ **Hallucination** | BSP reports do not indicate a 90% financial literacy rate. Financial literacy remains a challenge, particularly among young adults and underserved sectors. |
+#### | "Digital wallets and mobile banking applications have increased access to financial services among Filipinos." | BSP Digital Payments Transformation Roadmap and Financial Inclusion Reports | ✅ **Verified** | Confirmed. The rapid adoption of e-wallets and digital banking has improved financial inclusion and accessibility. |
+#### | "Budgeting and savings habits are positively associated with higher financial well-being among university students." | Local and international studies on financial literacy and student financial behavior | ✅ **Verified** | Multiple studies support the relationship between financial management practices and financial well-being. |
+
+#### 2. Critical Reflection on Tool Limitations
+
+#### "While the AI platform condensed several journal articles and policy reports into concise summaries, some numerical claims were inaccurate and lacked proper context. The system occasionally merged projected outcomes with actual findings, producing misleading statements. Human verification using official sources and peer-reviewed literature was necessary to distinguish factual information from hallucinations. This exercise demonstrated that AI is valuable for accelerating literature reviews, but it should complement—not replace—critical evaluation and empirical validation by researchers."
 
