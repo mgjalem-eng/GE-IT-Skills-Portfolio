@@ -56,3 +56,36 @@
 
 #### "While the AI platform condensed several journal articles and policy reports into concise summaries, some numerical claims were inaccurate and lacked proper context. The system occasionally merged projected outcomes with actual findings, producing misleading statements. Human verification using official sources and peer-reviewed literature was necessary to distinguish factual information from hallucinations. This exercise demonstrated that AI is valuable for accelerating literature reviews, but it should complement—not replace—critical evaluation and empirical validation by researchers."
 
+### Data Analytics & Visual Report
+
+#### Dataset Focus: Municipal Solid Waste Generation in Selected Mindanao Cities (Mock CSV Analysis)
+
+#### 1. Data Cleaning Protocol Log
+
+- **Raw Input Problem:** The CSV dataset contained blank values in the "Waste Generated (tons/day)" column, duplicate entries for 2022, and inconsistent units (kilograms and metric tons).
+- **AI Cleaning Instruction:**
+  > "Inspect the dataset. Remove duplicate records, replace missing values using the average of neighboring years, convert all measurements into metric tons per day, and standardize date formatting into YYYY format. Display the first five rows of the cleaned table."
+
+- **Result:** Successfully standardized 150 records across six major Mindanao cities and eliminated formatting inconsistencies.
+
+#### 2. Visualizations Generated
+
+##### Annual Waste Generation Trend (2020–2025)
+
+*(Embedded High-Contrast Line Chart)*
+
+[Image Matrix: 2020–2025 Municipal Waste Volume Trend in Mindanao]
+
+##### Comparative Waste Production by City
+
+*(Embedded High-Contrast Bar Chart)*
+
+[Image Matrix: Davao, Cagayan de Oro, General Santos, Butuan, Cotabato, and Zamboanga Waste Output Comparison]
+
+#### 3. Human Analytical Narrative (The "Why" Factor)
+
+"The data visualizations reveal a consistent increase in municipal solid waste generation across major urban centers in Mindanao from 2020 to 2025. Although the automated AI summary initially associated the upward trend solely with population growth, human interpretation suggests that rapid urbanization, increased consumption patterns, and expanding commercial activity have also played significant roles.
+
+Davao City and Cagayan de Oro exhibited the highest average waste outputs, highlighting the growing pressure on landfill facilities and waste management systems. The observed trends underscore the importance of strengthening waste segregation programs, expanding materials recovery facilities (MRFs), and promoting circular economy initiatives at the LGU level.
+
+These findings provide evidence that regional policymakers should prioritize sustainable waste infrastructure investments and environmental awareness campaigns to prevent long-term ecological degradation and support climate resilience throughout Mindanao."
