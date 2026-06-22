@@ -62,29 +62,29 @@
 
 #### 1. Data Cleaning Protocol Log
 
-- **Raw Input Problem:** The CSV dataset contained blank values in the "Waste Generated (tons/day)" column, duplicate entries for 2022, and inconsistent units (kilograms and metric tons).
-- **AI Cleaning Instruction:**
-  > "Inspect the dataset. Remove duplicate records, replace missing values using the average of neighboring years, convert all measurements into metric tons per day, and standardize date formatting into YYYY format. Display the first five rows of the cleaned table."
+#### - **Raw Input Problem:** The CSV dataset contained blank values in the "Waste Generated (tons/day)" column, duplicate entries for 2022, and inconsistent units (kilograms and metric tons).
+#### - **AI Cleaning Instruction:**
+####  > "Inspect the dataset. Remove duplicate records, replace missing values using the average of neighboring years, convert all measurements into metric tons per day, and standardize date formatting into YYYY format. Display the first five rows of the cleaned table."
 
-- **Result:** Successfully standardized 150 records across six major Mindanao cities and eliminated formatting inconsistencies.
+#### - **Result:** Successfully standardized 150 records across six major Mindanao cities and eliminated formatting inconsistencies.
 
 #### 2. Visualizations Generated
 
 ##### Annual Waste Generation Trend (2020–2025)
 
-*(Embedded High-Contrast Line Chart)*
+#### *(Embedded High-Contrast Line Chart)*
 
-[Image Matrix: 2020–2025 Municipal Waste Volume Trend in Mindanao]
+#### [Image Matrix: 2020–2025 Municipal Waste Volume Trend in Mindanao]
 
 ##### Comparative Waste Production by City
 
-*(Embedded High-Contrast Bar Chart)*
+#### *(Embedded High-Contrast Bar Chart)*
 
-[Image Matrix: Davao, Cagayan de Oro, General Santos, Butuan, Cotabato, and Zamboanga Waste Output Comparison]
+#### [Image Matrix: Davao, Cagayan de Oro, General Santos, Butuan, Cotabato, and Zamboanga Waste Output Comparison]
 
 #### 3. Human Analytical Narrative (The "Why" Factor)
 
-"The data visualizations reveal a consistent increase in municipal solid waste generation across major urban centers in Mindanao from 2020 to 2025. Although the automated AI summary initially associated the upward trend solely with population growth, human interpretation suggests that rapid urbanization, increased consumption patterns, and expanding commercial activity have also played significant roles.
+#### "The data visualizations reveal a consistent increase in municipal solid waste generation across major urban centers in Mindanao from 2020 to 2025. Although the automated AI summary initially associated the upward trend solely with population growth, human interpretation suggests that rapid urbanization, increased consumption patterns, and expanding commercial activity have also played significant roles.
 
 Davao City and Cagayan de Oro exhibited the highest average waste outputs, highlighting the growing pressure on landfill facilities and waste management systems. The observed trends underscore the importance of strengthening waste segregation programs, expanding materials recovery facilities (MRFs), and promoting circular economy initiatives at the LGU level.
 
