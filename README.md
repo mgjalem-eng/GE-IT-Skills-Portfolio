@@ -2,7 +2,9 @@
 ## About Me
 ### Dream big. Work quietly.
 #### Hello! I’m Mery Grace Jalem, a Management Accounting student who is passionate about continuous learning, personal growth, and building a meaningful career in the finance industry. I consider myself analytical, adaptable, and detail-oriented, with strong teamwork and problem-solving skills developed through both academic and real-life experiences. Outside academics, I enjoy reading, crocheting, and exploring creative ideas that help me grow both personally and professionally.
-## The Samal Eco-Tourism Promotion Prompt System
+##### -------------------------------------------------------------------------------------------------------------------------------------
+### Prompt Engineering (Text & Image Generation)
+### The Samal Eco-Tourism Promotion Prompt System
 ### Project Overview
 ### This project demonstrates a localized AI prompt framework designed for LGU Technical Working Groups in the Davao Region. The system generates professional communication plans focused on sustainable eco-tourism in Samal Island.
 #### 1. System Prompt Template (V3 – Final Optimized)
@@ -38,6 +40,8 @@
 #### - Text labels
 #### - 3D effects
 #### - Cartoon characters
+#### --------------------------------------------------------------------------------------------------------------
+### AI Study Tools & Platforms (Content Critique)
 ### Literature Verification Log
 
 #### Topic: Poor Financial Literacy Among Young Adults in the Philippines
@@ -55,7 +59,8 @@
 #### 2. Critical Reflection on Tool Limitations
 
 #### "While the AI platform condensed several journal articles and policy reports into concise summaries, some numerical claims were inaccurate and lacked proper context. The system occasionally merged projected outcomes with actual findings, producing misleading statements. Human verification using official sources and peer-reviewed literature was necessary to distinguish factual information from hallucinations. This exercise demonstrated that AI is valuable for accelerating literature reviews, but it should complement—not replace—critical evaluation and empirical validation by researchers."
-
+#### --------------------------------------------------------------------------------------------------------------------
+### AI for Research & Data Analysis (Visual Reports)
 ### Data Analytics & Visual Report
 
 #### Dataset Focus: Municipal Solid Waste Generation in Selected Mindanao Cities (Mock CSV Analysis)
